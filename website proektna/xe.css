@@ -1,0 +1,26 @@
+.xe{
+    position: fixed;
+    top: 40px;
+    left: 150px;
+}
+.xetext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    top: 70px;
+    left: 450px;
+}
+
+.server{
+    position: fixed;
+    left: 125px;
+    top: 300px;
+}
+.servertext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    left: 450px;
+    top: 360px;
+
+}

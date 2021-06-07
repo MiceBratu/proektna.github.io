@@ -1,0 +1,26 @@
+.radeon{
+    position: fixed;
+    top: 80px;
+    left: 150px;
+}
+.radeontext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    top: 70px;
+    left: 500px;
+}
+
+.pro{
+    position: fixed;
+    left: 145px;
+    top: 420px;
+}
+.protext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    left: 500px;
+    top: 350px;
+
+}

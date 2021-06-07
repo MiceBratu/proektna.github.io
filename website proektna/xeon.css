@@ -1,0 +1,37 @@
+.xeon{
+    position: relative;
+    top: 10px;
+ }
+ .xeontext{
+     color:white;
+     font-size: larger;
+     position: relative;
+    top: 20px;
+}
+
+.image1{
+    position: fixed;
+    left: 250px;
+    top: 50px;
+}
+
+.image2{
+    position: fixed;
+    left: 900px;
+    top: 50px;
+}
+
+.xeontext1{
+    position: fixed;
+    left: 460px;
+    top: 350px;
+    color:white;
+    font-size: large;
+}
+.xeontext2{
+    position: fixed;
+    left: 1070px;
+    top: 350px;
+    color:white;
+    font-size: large;
+}

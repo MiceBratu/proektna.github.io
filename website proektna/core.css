@@ -1,0 +1,37 @@
+.core{
+    position: fixed;
+    top: 40px;
+    left: 100px;
+}
+.coretext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    top: 20px;
+    left: 390px;
+}
+
+.pentium{
+    position: fixed;
+    left: 100px;
+    top: 330px;
+}
+.pentiumtext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    left: 390px;
+    top: 355px;
+}
+.celeron{
+    position: fixed;
+    left: 100px;
+    top: 620px;
+}
+.celerontext{
+    color:white;
+    font-size: larger;
+    position: fixed;
+    left: 390px;
+    top: 640px;
+}

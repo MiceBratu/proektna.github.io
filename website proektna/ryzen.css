@@ -1,0 +1,50 @@
+.athlon{
+    position: fixed;
+    top: 50px;
+    left: 100px;
+}
+.athlontext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    top: 60px;
+    left: 390px;
+}
+
+.ryzen{
+    position: fixed;
+    left: 100px;
+    top: 300px;
+}
+.ryzentext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    left: 390px;
+    top: 295px;
+}
+.apu{
+    position: fixed;
+    left: 100px;
+    top: 550px;
+}
+.aputext{
+    color:white;
+    font-size: larger;
+    position: fixed;
+    left: 390px;
+    top: 555px;
+}
+
+.tripper2{
+    position: fixed;
+    left: 100px;
+    top: 820px;
+}
+.trippertext{
+    color:white;
+    position: fixed;
+    font-size: larger;
+    left: 390px;
+    top: 830px;
+}

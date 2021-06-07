@@ -1,0 +1,50 @@
+.card{
+    background-color: rgb(33, 37, 41)!important;
+    position: relative;
+    top: 30px;
+    color: white;
+}
+  
+.card-text{
+    font-size: larger;
+    text-align: center;
+
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.btn-danger{
+    text-decoration: white;
+}
+.yeet{
+    color: rgbA(33, 37, 41);
+}
+.test{
+    position: fixed;
+    top: 50px;
+}
+.buttonpos{
+    position: relative;
+    top: -20px;
+}

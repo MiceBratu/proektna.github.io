@@ -1,0 +1,81 @@
+body{
+    background-image: url(backround.png);
+    background-size: cover;
+    background-repeat: repeat;
+
+}
+
+h1{
+    color: white;
+    position: relative;
+    left: 25px;
+    top: 15px;
+    font-family: 'Raleway', sans-serif;
+}
+.barnav{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.section1{
+	
+	width:50%;
+	float:left;
+	height:100vh;
+	border-right: 1vw solid rgba(32,36,41,255); 
+    box-sizing: border-box;
+    margin:0;
+    padding:0;	
+}
+.section2{
+	
+	width:50%;
+	float:left;
+	height:100vh;
+	margin:0;
+	padding:0;
+    box-sizing: border-box;
+}
+.amd{
+    position: relative;
+    top: 300px;
+}
+.intel{
+    position: relative;
+    top: 300px;
+}
+
+
+.amdbutton{
+    position: relative;
+    top: 325px;
+    color:white;
+}
+.intelbutton{
+    position: relative;
+    top: 325px;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
